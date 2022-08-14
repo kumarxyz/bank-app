@@ -1,0 +1,8 @@
+server:
+  port: 2022
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/kumardatabase
+    username: root
+		password: root
