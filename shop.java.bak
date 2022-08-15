@@ -4,6 +4,6 @@ class AshokIt
 	{
 		int a=10;
 		int b=25;
-		system.out.println(a+b);
+		system.out.println(a+b)
 	}
 }
